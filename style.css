@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    margin: 0px;
+}
+.text-top{
+    margin-top: 10%;
+}
+p{
+    color:dimgrey;
+}
+.red-highlight{
+    color:red;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+section{
+    height: 25%;
+}
+.link-button{
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,red,brown);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.center-allign{
+    text-align: center;
+}
+.third-width img{
+    width: 30%;
+    
+    margin-left: 2%;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer{
+    text-align: center;
+}
